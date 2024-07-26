@@ -6,8 +6,8 @@ I work on various project regarding web-designing + I also do side project in ot
 
 Skills: REACT / JS / HTML / CSS / docker / Python / Bash / Powershell
 
-- 🔭 I’m currently working on https://github.com/TheGamingWinner/My-slstatus-config 
-- 🌱 I’m currently learning https://github.com/TheGamingWinner/update_script 
+- 🔭 I’m currently working on https://github.com/AkkhilCodingHub/My-slstatus-config 
+- 🌱 I’m currently learning https://github.com/AkkhilCodingHub/update_script 
 - 💬 Ask me about Coding related to web-designing and bash scripting 
 - 📫 How to reach me: join my discord https://discord.gg/Npvj9jFFSm 
 
