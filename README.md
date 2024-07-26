@@ -12,17 +12,17 @@ Skills: REACT / JS / HTML / CSS / docker / Python / Bash / Powershell
 - 📫 How to reach me: join my discord https://discord.gg/Npvj9jFFSm 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TheGamingWinner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akkhil-sharma-23a5a9267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/05_akkhil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@AkkhilHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/Npvj9jFFSm)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AkkhilCodingHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/akkhil-sharma-23a5a9267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/05_akkhil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@AkkhilHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/Npvj9jFFSm)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/TheGamingWinner)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/AkkhilCodingHub)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/TheGamingWinner)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AkkhilCodingHub)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/TheGamingWinner&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AkkhilCodingHub&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/TheGamingWinner)  
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/AkkhilCodingHub)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/TheGamingWinner)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/AkkhilCodingHub)  
 
 
 
