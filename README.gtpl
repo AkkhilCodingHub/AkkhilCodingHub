@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AkkhilCodingHub/AkkhilCodingHub/main/ctt-600px-github.png" /></p>
 
 
 ### Socials
@@ -7,7 +7,7 @@
 
 ### GitHub Stats
 
-<p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/AkkhilCodingHub/AkkhilCodingHub/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
