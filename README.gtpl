@@ -1,4 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/AkkhilCodingHub/AkkhilCodingHub/main/ctt-600px-github.png" /></p>
+<!
+<p align="center"><img src="https://raw.githubusercontent.com/AkkhilCodingHub/AkkhilCodingHub/main/ctt-600px-github.png" /></p> 
+>
 
 
 ### Socials
