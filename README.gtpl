@@ -1,6 +1,4 @@
-<!
 <p align="center"><img src="https://raw.githubusercontent.com/AkkhilCodingHub/AkkhilCodingHub/main/ctt-600px-github.png" /></p> 
->
 
 <a href="https://www.twitch.tv/akkhilcodinghub" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWITCH%20STATUS&labelColor=red&color=blue" /></a>
