@@ -25,11 +25,11 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 - [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
 ### 🔨 My recent Pull Requests
 
+- [Main](https://github.com/AkkhilCodingHub/dwm-titus/pull/10) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
+- [merging changes](https://github.com/AkkhilCodingHub/dwm-titus/pull/9) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
+- [Main](https://github.com/ChrisTitusTech/dwm-titus/pull/64) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
 - [adding typo fixes](https://github.com/AkkhilCodingHub/dwm-titus/pull/8) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [updation to test branch](https://github.com/AkkhilCodingHub/dwm-titus/pull/7) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
-- [Using i3-sensible-terminal to launch the terminal for any user, Specification using $TERMINAL env can be make for user prepreces ](https://github.com/ChrisTitusTech/dwm-titus/pull/60) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
-- [Main](https://github.com/AkkhilCodingHub/dwm-titus/pull/6) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
-- [Main](https://github.com/AkkhilCodingHub/dwm-titus/pull/5) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 ### ⭐ Recent Stars
 
 
