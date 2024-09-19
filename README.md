@@ -13,15 +13,13 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
-- [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
-- [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - 
-- [AkkhilCodingHub/practical](https://github.com/AkkhilCodingHub/practical) - 
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
+- [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
+- [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - Windows Update Scripts &#43; Linux Update Script
 ### 🌱 My latest projects
 
-- [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - 
+- [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - Windows Update Scripts &#43; Linux Update Script
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
-- [AkkhilCodingHub/practical](https://github.com/AkkhilCodingHub/practical) - 
 - [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
 ### 🔨 My recent Pull Requests
 
