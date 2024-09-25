@@ -13,8 +13,8 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
-- [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
+- [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - Windows Update Scripts &#43; Linux Update Script
 ### 🌱 My latest projects
 
