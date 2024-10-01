@@ -23,11 +23,11 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 - [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
 ### 🔨 My recent Pull Requests
 
+- [update slstatus mem icon](https://github.com/AkkhilCodingHub/dwm-titus/pull/11) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [Test](https://github.com/AkkhilCodingHub/project/pull/12) on [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project)
 - [Main](https://github.com/AkkhilCodingHub/dwm-titus/pull/10) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [merging changes](https://github.com/AkkhilCodingHub/dwm-titus/pull/9) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [Main](https://github.com/ChrisTitusTech/dwm-titus/pull/64) on [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus)
-- [adding typo fixes](https://github.com/AkkhilCodingHub/dwm-titus/pull/8) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 ### ⭐ Recent Stars
 
 
