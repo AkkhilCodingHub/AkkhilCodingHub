@@ -23,11 +23,11 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 - [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
 ### 🔨 My recent Pull Requests
 
+- [fix default apps](https://github.com/AkkhilCodingHub/dwm-titus/pull/15) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [update docs](https://github.com/AkkhilCodingHub/dwm-titus/pull/14) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [update slstatus mem icon](https://github.com/AkkhilCodingHub/dwm-titus/pull/13) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [updating test](https://github.com/AkkhilCodingHub/dwm-titus/pull/12) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [update slstatus mem icon](https://github.com/AkkhilCodingHub/dwm-titus/pull/11) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
-- [Test](https://github.com/AkkhilCodingHub/project/pull/12) on [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project)
 ### ⭐ Recent Stars
 
 
