@@ -13,17 +13,17 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
-- [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
+- [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - Windows Update Scripts &#43; Linux Update Script
 ### 🌱 My latest projects
 
 - [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - Windows Update Scripts &#43; Linux Update Script
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
-- [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project) - College project
+- [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 ### 🔨 My recent Pull Requests
 
-- [Revert &#34;Bump body-parser and express&#34;](https://github.com/AkkhilCodingHub/project/pull/15) on [AkkhilCodingHub/project](https://github.com/AkkhilCodingHub/project)
+- [Revert &#34;Bump body-parser and express&#34;](https://github.com/AkkhilCodingHub/Website/pull/15) on [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website)
 - [fix default apps](https://github.com/AkkhilCodingHub/dwm-titus/pull/15) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [update docs](https://github.com/AkkhilCodingHub/dwm-titus/pull/14) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [update slstatus mem icon](https://github.com/AkkhilCodingHub/dwm-titus/pull/13) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
