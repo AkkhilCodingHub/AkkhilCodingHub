@@ -15,10 +15,8 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 - [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
-- [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - Windows Update Scripts &#43; Linux Update Script
 ### 🌱 My latest projects
 
-- [AkkhilCodingHub/update_script](https://github.com/AkkhilCodingHub/update_script) - Windows Update Scripts &#43; Linux Update Script
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 ### 🔨 My recent Pull Requests
