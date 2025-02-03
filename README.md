@@ -13,9 +13,9 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
+- [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/RAG_app](https://github.com/AkkhilCodingHub/RAG_app) - 
 - [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
-- [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 ### 🌱 My latest projects
 
 - [AkkhilCodingHub/RAG_app](https://github.com/AkkhilCodingHub/RAG_app) - 
