@@ -17,6 +17,7 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 - [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 ### 🌱 My latest projects
 
+- [AkkhilCodingHub/trade-bot](https://github.com/AkkhilCodingHub/trade-bot) - 
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 ### 🔨 My recent Pull Requests
