@@ -13,9 +13,11 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
+- [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 ### 🌱 My latest projects
 
+- [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
 - [AkkhilCodingHub/trade-bot](https://github.com/AkkhilCodingHub/trade-bot) - 
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
