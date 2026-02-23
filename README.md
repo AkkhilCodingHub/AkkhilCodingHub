@@ -13,8 +13,8 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
-- [AkkhilCodingHub/trade-bot](https://github.com/AkkhilCodingHub/trade-bot) - 
 - [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
+- [AkkhilCodingHub/trade-bot](https://github.com/AkkhilCodingHub/trade-bot) - 
 ### 🌱 My latest projects
 
 - [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
@@ -23,11 +23,11 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 - [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 ### 🔨 My recent Pull Requests
 
+- [Merging main into test](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/2) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
+- [caching up to main branch](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/1) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
 - [New update from titus](https://github.com/AkkhilCodingHub/dwm-titus/pull/16) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [Revert &#34;Bump body-parser and express&#34;](https://github.com/AkkhilCodingHub/Website/pull/15) on [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website)
 - [fix default apps](https://github.com/AkkhilCodingHub/dwm-titus/pull/15) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
-- [update docs](https://github.com/AkkhilCodingHub/dwm-titus/pull/14) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
-- [update slstatus mem icon](https://github.com/AkkhilCodingHub/dwm-titus/pull/13) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 ### ⭐ Recent Stars
 
 
