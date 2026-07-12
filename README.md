@@ -15,21 +15,17 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 - [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN) - 
 - [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
-- [AkkhilCodingHub/trade-bot](https://github.com/AkkhilCodingHub/trade-bot) - 
 ### 🌱 My latest projects
 
 - [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN) - 
 - [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
-- [AkkhilCodingHub/trade-bot](https://github.com/AkkhilCodingHub/trade-bot) - 
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
-- [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website) - College project
 ### 🔨 My recent Pull Requests
 
-- [current build](https://github.com/AkkhilCodingHub/Website/pull/17) on [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website)
 - [Merging main into test](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/2) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
 - [caching up to main branch](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/1) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
 - [New update from titus](https://github.com/AkkhilCodingHub/dwm-titus/pull/16) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
-- [Revert &#34;Bump body-parser and express&#34;](https://github.com/AkkhilCodingHub/Website/pull/15) on [AkkhilCodingHub/Website](https://github.com/AkkhilCodingHub/Website)
+- [fix default apps](https://github.com/AkkhilCodingHub/dwm-titus/pull/15) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 ### ⭐ Recent Stars
 
 
