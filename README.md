@@ -13,9 +13,9 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
+- [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN) - 
 - [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
-- [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN) - 
 ### 🌱 My latest projects
 
 - [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN) - 
@@ -23,11 +23,11 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 ### 🔨 My recent Pull Requests
 
+- [Update issue templates](https://github.com/AkkhilCodingHub/Project-MN/pull/1) on [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN)
 - [Test](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/3) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
 - [Main](https://github.com/AkkhilCodingHub/dwm-titus/pull/17) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [Merging main into test](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/2) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
 - [caching up to main branch](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/1) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
-- [New update from titus](https://github.com/AkkhilCodingHub/dwm-titus/pull/16) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 ### ⭐ Recent Stars
 
 
