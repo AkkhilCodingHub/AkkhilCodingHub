@@ -27,7 +27,6 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 - [Test](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/3) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
 - [Main](https://github.com/AkkhilCodingHub/dwm-titus/pull/17) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 - [Merging main into test](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/2) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
-- [caching up to main branch](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/1) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
 ### ⭐ Recent Stars
 
 
