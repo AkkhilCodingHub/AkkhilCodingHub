@@ -13,19 +13,22 @@ src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWI
 
 ### 👷 Check out what I'm currently working on
 
+- [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 - [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN) - 
 - [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
-- [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 ### 🌱 My latest projects
 
 - [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN) - 
+- [AkkhilCodingHub/ask-insurance](https://github.com/AkkhilCodingHub/ask-insurance) - 
 - [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds) - 
 - [AkkhilCodingHub/resume](https://github.com/AkkhilCodingHub/resume) - my resume
 ### 🔨 My recent Pull Requests
 
+- [Missing feature addition](https://github.com/AkkhilCodingHub/ask-insurance/pull/3) on [AkkhilCodingHub/ask-insurance](https://github.com/AkkhilCodingHub/ask-insurance)
+- [feat: DigiLocker Document Storage Integration, Auto-Redirect &amp; Dark Mode Fixes](https://github.com/AkkhilCodingHub/ask-insurance/pull/2) on [AkkhilCodingHub/ask-insurance](https://github.com/AkkhilCodingHub/ask-insurance)
+- [fix: resolve admin login redirect loop](https://github.com/AkkhilCodingHub/ask-insurance/pull/1) on [AkkhilCodingHub/ask-insurance](https://github.com/AkkhilCodingHub/ask-insurance)
 - [Update issue templates](https://github.com/AkkhilCodingHub/Project-MN/pull/1) on [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN)
 - [Test](https://github.com/AkkhilCodingHub/GuideProBuilds/pull/3) on [AkkhilCodingHub/GuideProBuilds](https://github.com/AkkhilCodingHub/GuideProBuilds)
-- [Main](https://github.com/AkkhilCodingHub/dwm-titus/pull/17) on [AkkhilCodingHub/dwm-titus](https://github.com/AkkhilCodingHub/dwm-titus)
 ### ⭐ Recent Stars
 
 
