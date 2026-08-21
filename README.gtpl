@@ -17,20 +17,28 @@
 <p align="left"><img src="https://raw.githubusercontent.com/AkkhilCodingHub/AkkhilCodingHub/main/github-metrics.svg" /></p>
 
 ### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
+{{ range recentContributions 10 }}
+{{- if not .Repo.IsPrivate }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 {{- end }}
 ### 🌱 My latest projects
-{{ range recentRepos 5 }}
+{{ range recentRepos 10 }}
+{{- if not .IsPrivate }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
+{{- end }}
 ### 🔨 My recent Pull Requests
-{{ range recentPullRequests 5 }}
+{{ range recentPullRequests 10 }}
+{{- if not .Repo.IsPrivate }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
+{{- end }}
 ### ⭐ Recent Stars
-{{ range recentStars 5 }}
+{{ range recentStars 10 }}
+{{- if not .Repo.IsPrivate }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 {{- end }}
 
 ### 📫 How to reach me:
