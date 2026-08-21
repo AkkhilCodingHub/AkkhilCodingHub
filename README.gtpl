@@ -1,7 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/AkkhilCodingHub/AkkhilCodingHub/main/profile-banner.png" alt="Akkhil Coding Hub Banner" /></p> 
-
-<a href="https://www.twitch.tv/akkhilcodinghub" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/akkhilcodinghub?style=social&label=TWITCH%20STATUS&labelColor=red&color=blue" /></a>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Akkhil Coding Hub Banner" /></p>
 
 ### Socials
 
