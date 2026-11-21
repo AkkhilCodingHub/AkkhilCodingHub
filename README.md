@@ -36,7 +36,6 @@
 - [feat(frontend, ci): Add Dark Glassmorphic React Frontend &amp; Manual Pre-Release Action Workflow](https://github.com/AkkhilCodingHub/Project-MN/pull/8) on [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN)
 - [feat: enable dual endpoints, self-healing parser, and GitHub templates](https://github.com/AkkhilCodingHub/Project-MN/pull/2) on [AkkhilCodingHub/Project-MN](https://github.com/AkkhilCodingHub/Project-MN)
 - [Missing feature addition](https://github.com/AkkhilCodingHub/ask-insurance/pull/3) on [AkkhilCodingHub/ask-insurance](https://github.com/AkkhilCodingHub/ask-insurance)
-- [feat: DigiLocker Document Storage Integration, Auto-Redirect &amp; Dark Mode Fixes](https://github.com/AkkhilCodingHub/ask-insurance/pull/2) on [AkkhilCodingHub/ask-insurance](https://github.com/AkkhilCodingHub/ask-insurance)
 ### ⭐ Recent Stars
 
 
